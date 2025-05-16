@@ -1,4 +1,4 @@
-# 🏥 Project Title: Healthcare Data Analysis Dashboard
+# 🏥  Healthcare Data Analysis Dashboard
 
 ## 📌 Overview / Objective
 
@@ -25,7 +25,6 @@ This project analyzes a dataset of 55,500 unique patient records from 10 major h
 
 - **Power BI** – Data visualization and dashboarding  
 - **Excel / CSV** – Dataset storage and processing  
-- **GitHub** – Project hosting and documentation
 
 ---
 
@@ -77,7 +76,7 @@ Dashboards are divided into:
 2. **Cost & Insurance Analysis**: Billing, stay duration, conditions vs cost, insurance providers
 3. **Patient Demographics**: Age/gender groups, admission types, diagnosis prevalence
 
-*(Screenshots of dashboards are included in the repository)*
+*(Screenshots  and Pdf of dashboards are included in the repository)*
 
 ---
 
